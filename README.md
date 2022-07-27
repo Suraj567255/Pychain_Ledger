@@ -25,3 +25,6 @@ For video demo of the streamlit web interface, download `pychaindemo.mov` in thi
 
 # PyChain Streamlit Web Interface Screenshot
 ![streamlit-blockchain](Images/Pychain.png)
+
+# Terminal when the app is running
+![terminal](Images/terminal.jpg)
