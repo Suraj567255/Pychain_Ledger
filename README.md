@@ -21,7 +21,7 @@ I have used stramlit, dataclasses, typing, datetime, pandas and hashlib librarie
 5. Test the blockchain validation process by clicking the 'Validate Chain' button.
 
 # Pychain Stramlit Demo
-For video demo of the streamlit web interface, download `PyChain-demo.mov` in this repository.
+For video demo of the streamlit web interface, download `pychaindemo.mov` in this repository.
 
 # PyChain Streamlit Web Interface Screenshot
 ![streamlit-blockchain](Images/Pychain.png)
